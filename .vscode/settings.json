@@ -1,0 +1,6 @@
+{
+    "ansible.python.interpreterPath": "/home/vagrant/venvansible/bin/python3",
+    "ansible.ansible.path": "/home/vagrant/venvansible/bin/ansible",
+    "ansible.validation.lint.path": "/home/vagrant/venvansible/bin/ansible-lint",
+    "ansible.executionEnvironment.enabled": false
+}
